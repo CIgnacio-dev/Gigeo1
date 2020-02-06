@@ -1,0 +1,25 @@
+h1{
+  font-family: $family;
+    font-size: $large;
+    font-weight: $bold;
+}
+h2{
+    font-family: $family;
+    margin-left: 5%;
+    font-size: $small;
+    text-align: center;
+}
+h3{
+    font-family: $family;
+    font-weight: $bold;
+    color: $black;
+    font-size: $medium;
+}
+sup{
+    font-family: $family;
+    font-size: 10px;
+    font-weight: $bold;
+}
+h5{
+    font-weight: bold;
+}
